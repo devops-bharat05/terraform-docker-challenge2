@@ -205,5 +205,3 @@ resource "docker_network" "private_network" {
 * Establishing dependencies and communication between multiple services
 
 ---
-
-Would you like me to also generate the **Terraform code for the entire challenge (all resources in one place)** and include it in this `README.md` under a `terraform/` folder example?
